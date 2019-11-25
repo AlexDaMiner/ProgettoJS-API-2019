@@ -3,6 +3,7 @@
 ## Titolo progetto 
 
 Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <5000 parole)
+Ricerca musica da generi, titoli e artisti.
 
 
 * https://github.com/public-apis/public-apis
@@ -17,10 +18,10 @@ Elenco partecipanti
 
 ## Ruoli
 
-* PROJECT_MANAGER = 
-* DOCUMENTAZIONE = 
-* CODING JS
-* CODING UI
+* PROJECT_MANAGER = Alexander Dell'Oro.
+* DOCUMENTAZIONE = Cosimo Tobia Zaffino.
+* CODING JS = Alexander Dell'Oro.
+* CODING UI = Cosimo Tobia Zaffino.
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
